@@ -1,1 +1,1 @@
-# Crypto Currenct Tracker - React Native App
+# Crypto Currency Tracker - React Native App
